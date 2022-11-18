@@ -1,3 +1,0 @@
-Agung Prayitno G.231.20.0130 Ambarawa
-Mata Kuliah : Open Source System
-Catatan : Praktikum dengan menggunakan GIT
